@@ -60,7 +60,7 @@ class QuoteState extends State<Quote> {
                   style: TextStyle(color: Colors.white, letterSpacing: 1.0),
                 ),
                 style: const ButtonStyle(
-                    backgroundColor: MaterialStatePropertyAll(Colors.green),
+                    backgroundColor: MaterialStatePropertyAll(Colors.black),
                     padding: MaterialStatePropertyAll(EdgeInsets.all(10.0))),
               ),
             ),
